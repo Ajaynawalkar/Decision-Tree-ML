@@ -1,6 +1,6 @@
-# Decision-Tree-ML
-- Machine Learning in Decision Tree Classifier.
-- In this lab exercise, you will learn a popular machine learning algorithm, Decision Tree. You will use this classification algorithm to build a model from historical data of patients, and their response to different medications. Then you use the trained decision tree to predict the class of a unknown patient, or to find a proper drug for a new patient.
+# Decision Tree ML
+- Decision Tree Classifier Model in Machine Learning.
+- In this lab exercise, you will learn a popular machine learning algorithm, Decision Tree. You will use this classification algorithm to build a model from historical   data of patients, and their response to different medications. Then you use the trained decision tree to predict the class of a unknown patient, or to find a proper   drug for a new patient.
 
 ## Import the Following Libraries:
 - numpy (as np)
@@ -9,7 +9,7 @@
 
 ## About Dataset
 - In the Dataset we have seen that thier is different type of animals in the our real world and we categories the different species on the bases of our nakes eyes but,
-  Machine Learning use the data of animal species on the basis of Body Temperature, Skin Cover, Give Birth, Aquatic Creature, Aerial Creature, Has Legs, Hibernates on the basis of 
+  Machine Learning use the data of animal species on the basis of Body Temperature, Skin Cover, Give Birth, Aquatic Creature, Aerial Creature, Has Legs, Hibernates on   the basis of 
   this data we predict the class of our animal that which Species is belong on the basis of this Parameters.
 - So, We use Decision Tree Classifier MOdel for the prediction of the Species.
 
