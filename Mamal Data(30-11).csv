@@ -1,0 +1,16 @@
+Name,Body Temperature,Skin Cover,Give Birth,Aquatic Creature,Aerial Creature,Has Legs,Hibernates,Class
+Human,Warm,hair,1,no,0,1,0,Mammal
+Python,Cold,scales,0,no,0,0,1,Reptile
+Salmon,Cold,scales,0,yes,0,0,0,Fish
+Whale,Warm,hair,1,yes,0,0,0,Mammal
+Frog,Cold,none,0,semi,0,1,1,Amphibian
+Komodo,Cold,scales,0,no,0,1,0,Reptile
+Bat,Warm,hair,1,no,1,1,1,Mammal
+Pigeon,Warm,feathers,0,no,1,1,0,Bird
+Cat,Warm,fur,1,no,0,1,0,Mammal
+Leopard,Cold,scales,1,yes,0,0,0,Fish
+Turtle,Cold,scales,0,semi,0,1,0,Reptile
+Penguin,Warm,feathers,0,semi,0,1,0,Bird
+Porcupine,Warm,quills,1,no,0,1,1,Mammal
+Eel,Cold,scales,0,yes,0,0,0,Fish
+Salamander,Cold,none,0,semi,0,1,1,Amphibian
